@@ -9,4 +9,4 @@ else int % 3 == 0
   puts "Fizz"
   end
 end
-fizzbuzz(6)
+fizzbuzz(10)
